@@ -44,3 +44,5 @@ var loopInterval = setInterval(function () {
         console.log("Non HD Titles: " + nonHDTotal + "\n");
 	}
 }, 500);
+
+// testing
